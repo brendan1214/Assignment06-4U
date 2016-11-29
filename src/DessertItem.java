@@ -7,7 +7,7 @@
  * DO NOT CHANGE THIS CLASS!
  * 
  * @author lamonta
- */
+ */ 
 public abstract class DessertItem {
   
   private String name;
